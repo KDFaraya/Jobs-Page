@@ -1,0 +1,65 @@
+
+
+
+#Cooks{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: large; 
+display: flex;
+padding: 20px;
+flex-direction: row-reverse;
+   }
+    
+   .cooks_image{
+     
+   }
+
+   .cooks_content{
+ 
+   }
+
+
+#Landscaping{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: large; 
+display: flex;
+padding: 20px;
+   }
+    
+   .landscaping_image{
+     
+   }
+
+   .landscaping_content{
+ 
+   }
+  
+#Custodian{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: large; 
+display: flex;
+padding: 20px;
+flex-direction: row-reverse;
+   }
+    
+   .custodian_image{
+     
+   }
+
+   .custodian_content{
+ 
+   }
+
+#Tutors{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: large; 
+display: flex;
+padding: 20px;
+   }
+    
+   .tutors_image{
+     
+   }
+
+   .tutors_content{
+ 
+   }
